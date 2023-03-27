@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--demo-synapse-vmi-demosynapsevmi",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/bfa339d4-ee2f-4040-810b-8ce1c3fb4877/resourceGroups/Synapse/providers/Microsoft.Storage/storageAccounts/demosynapsevmi",
+		"groupId": "dfs"
+	}
+}

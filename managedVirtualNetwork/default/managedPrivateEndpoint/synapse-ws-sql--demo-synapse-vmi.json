@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--demo-synapse-vmi",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/bfa339d4-ee2f-4040-810b-8ce1c3fb4877/resourceGroups/Synapse/providers/Microsoft.Synapse/workspaces/demo-synapse-vmi",
+		"groupId": "sql",
+		"fqdns": [
+			"demo-synapse-vmi.93d4f5bf-3aa5-4269-805b-c2a35f26119f.sql.azuresynapse.net"
+		]
+	}
+}
